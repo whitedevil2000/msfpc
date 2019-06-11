@@ -1,4 +1,4 @@
-## MSFvenom Payload Creator (MSFPC)
+## myidea.apk (MSFPC)
 
 A **quick** way to generate various "basic" Meterpreter payloads via `msfvenom` (part of the Metasploit framework).
 
@@ -12,7 +12,7 @@ A **quick** way to generate various "basic" Meterpreter payloads via `msfvenom` 
 
 ## About
 
-MSFvenom Payload Creator (MSFPC) is a wrapper to generate multiple types of payloads, based on users choice. The idea is to be as **simple as possible** (**only requiring one input**) to produce their payload.
+MSFvenom idea Creator (MSFPC) is a wrapper to generate multiple types of payloads, based on users choice. The idea is to be as **simple as possible** (**only requiring one input**) to produce their payload.
 
 **Fully automating** msfvenom & Metasploit is the end goal _(well as to be be able to automate MSFPC itself)_.
 The rest is to make the user's life as **easy as possible** (e.g. **IP selection menu**, **msfconsole resource file/commands**, **batch payload production** and able to enter **any argument in any order** _(in various formats/patterns)_).
